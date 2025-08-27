@@ -10,11 +10,17 @@ Currently a Front-end Developer and a student of Computer Science at the Faculty
 * **Technologies:** HTML5, CSS3
 * **Link:** [Repository Link](https://github.com/[Ваш_нікнейм]/[Назва_репозиторію])
 
-### [Назва Проєкту 2]
+### Future-Tech
 [Короткий опис проєкту: що це за проєкт і яку проблему він вирішує.]
 
-* **Technologies:** ![Назва технології](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-* **Link:** [Посилання на репозиторій](https://github.com/[Ваш_нікнейм]/[Назва_репозиторію])
+* **Technologies:** JavaScript, HTML5, SCSS 
+* **Link:** [Repository Link](https://github.com/[Ваш_нікнейм]/[Назва_репозиторію])
+
+### Agency.AI
+[Короткий опис проєкту: що це за проєкт і яку проблему він вирішує.]
+
+* **Technologies:** JavaScript, React, TailwindCSS
+* **Link:** [Repository Link](https://github.com/[Ваш_нікнейм]/[Назва_репозиторію])
 
 
 # 💻 Tech Stack:
