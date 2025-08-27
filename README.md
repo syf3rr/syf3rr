@@ -17,7 +17,7 @@ A portfolio project demonstrating key Front-End development skills through a mul
 * **Link:** [Future-Tech repository](https://github.com/syf3rr/future-tech)
 
 ### Agency.AI
-[Короткий опис проєкту: що це за проєкт і яку проблему він вирішує.]
+An interactive website developed as a portfolio project to demonstrate modern front-end skills using an advanced tech stack.
 
 * **Technologies:** JavaScript, React, TailwindCSS
 * **Link:** [Agency.AI repository](https://github.com/syf3rr/agency-ai)
