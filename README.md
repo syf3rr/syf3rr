@@ -5,7 +5,7 @@ Currently a Front-end Developer and a student of Computer Science at the Faculty
 ## ✨ Featured Projects
 
 ### Kropp-fitness
-[Короткий опис проєкту: що це за проєкт і яку проблему він вирішує.]
+Business card website for a network of gyms, developed using pure HTML5 and CSS3.
 
 * **Technologies:** HTML5, CSS3
 * **Link:** [Kropp-fitness repository](https://github.com/syf3rr/kropp-fitness)
