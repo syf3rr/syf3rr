@@ -13,7 +13,7 @@ Currently a Front-end Developer and a student of Computer Science at the Faculty
 ### Future-Tech
 [Короткий опис проєкту: що це за проєкт і яку проблему він вирішує.]
 
-* **Technologies:** JavaScript, HTML5, SCSS 
+* **Technologies:** HTML5, SCSS, JavaScript
 * **Link:** [Future-Tech repository](https://github.com/syf3rr/future-tech)
 
 ### Agency.AI
