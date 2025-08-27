@@ -20,7 +20,7 @@ Currently a Front-end Developer and a student of Computer Science at the Faculty
 [Короткий опис проєкту: що це за проєкт і яку проблему він вирішує.]
 
 * **Technologies:** JavaScript, React, TailwindCSS
-* **Link:** [Repository Link](https://github.com/[Ваш_нікнейм]/[Назва_репозиторію])
+* **Link:** [Agency.AI repository](https://github.com/syf3rr/agency-ai)
 
 
 # 💻 Tech Stack:
