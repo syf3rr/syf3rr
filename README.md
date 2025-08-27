@@ -11,7 +11,7 @@ Business card website for a network of gyms, developed using pure HTML5 and CSS3
 * **Link:** [Kropp-fitness repository](https://github.com/syf3rr/kropp-fitness)
 
 ### Future-Tech
-[Короткий опис проєкту: що це за проєкт і яку проблему він вирішує.]
+A portfolio project demonstrating key Front-End development skills through a multi-page website.
 
 * **Technologies:** HTML5, SCSS, JavaScript
 * **Link:** [Future-Tech repository](https://github.com/syf3rr/future-tech)
