@@ -8,7 +8,7 @@ Currently a Front-end Developer and a student of Computer Science at the Faculty
 [Короткий опис проєкту: що це за проєкт і яку проблему він вирішує.]
 
 * **Technologies:** HTML5, CSS3
-* **Link:** [Repository Link](https://github.com/[Ваш_нікнейм]/[Назва_репозиторію])
+* **Link:** [Repository Link]([https://github.com/[Ваш_нікнейм]/[Назва_репозиторію]](https://github.com/syf3rr/kropp-fitness.git))
 
 ### Future-Tech
 [Короткий опис проєкту: що це за проєкт і яку проблему він вирішує.]
