@@ -11,7 +11,7 @@ Currently a Backend Developer focused on building high-performance server-side s
 
 
 
-### 🎨 Previous Front-end Work:
+## 🎨 Previous Front-end Work:
 If you're interested in my UI/UX experience, check out these projects:
 * [Agency.AI](https://github.com/syf3rr/agency-ai)
 * [Kropp-fitness](https://github.com/syf3rr/kropp-fitness)
