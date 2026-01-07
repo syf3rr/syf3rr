@@ -5,7 +5,7 @@ Currently a Backend Developer focused on building high-performance server-side s
 ## 🎯 Featured Projects
 
 ### JWT Authentication Service
- * **Technologies:** Nest.js, JWT, Argon2, PostgreSQL, Prisma.
+ * **Technologies:** Nest.js, JWT, Argon2, PostgreSQL, Prisma. ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
  * **Key Features:** Secure access/refresh token logic with modular architecture.
  * **Link:** [JWT Authentication repository](https://github.com/syf3rr/jwt-auth)
 
