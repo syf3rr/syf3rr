@@ -26,7 +26,7 @@ Currently a Backend Developer focused on building high-performance server-side s
 * [Kropp-fitness](https://github.com/syf3rr/kropp-fitness)
 * [Future-Tech](https://github.com/syf3rr/future-tech)
 
-# 📫 Connect me:
+## 📫 Connect me:
 I'm currently focused on **Backend Development** and open to new opportunities or interesting projects. Feel free to reach out!
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/markoghoul)
