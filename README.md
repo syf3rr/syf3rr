@@ -13,7 +13,7 @@ Currently a Backend Developer focused on building high-performance server-side s
 
 ### 🎨 Previous Front-end Work:
 If you're interested in my UI/UX experience, check out these projects:
-* **Links:** [Agency.AI repository](https://github.com/syf3rr/agency-ai), [Kropp-fitness repository](https://github.com/syf3rr/kropp-fitness), [Agency.AI repository](https://github.com/syf3rr/agency-ai)
+* **Links:** [Agency.AI repository](https://github.com/syf3rr/agency-ai), [Kropp-fitness repository](https://github.com/syf3rr/kropp-fitness), [Future-Tech repository](https://github.com/syf3rr/future-tech)
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
