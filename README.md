@@ -12,7 +12,7 @@ Currently a Backend Developer focused on building high-performance server-side s
 
 
 ### 🎨 Previous Front-end Work:
-*If you're interested in my UI/UX experience, check out these projects:*
+If you're interested in my UI/UX experience, check out these projects:
 * **Links:** [Agency.AI repository](https://github.com/syf3rr/agency-ai)
 
 # 💻 Tech Stack:
