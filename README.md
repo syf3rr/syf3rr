@@ -1,6 +1,4 @@
-# Hi, I'm Marko 👋
-
-### 💫 About Me:
+# 💫 About Me:
 Currently a Backend Developer focused on building high-performance server-side systems and scalable architectures. While my journey began in Front-end, my core expertise now lies in Node.js, Nest.js, and Database Design. I’m passionate about optimizing API performance, implementing secure authentication flows, and exploring the world of microservices. Driven by the challenge of transforming complex business logic into clean, efficient, and maintainable code.
 
 
