@@ -15,7 +15,7 @@ Currently a Backend Developer focused on building high-performance server-side s
 ![Prisma](https://img.shields.io/badge/Prisma-16A293?style=for-the-badge&logo=Prisma&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-F4009A?style=for-the-badge&logo=graphql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%1D62EC.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-1D62EC.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📂 Front-end Archive
 Сollection of my past work in UI/UX and web development:
