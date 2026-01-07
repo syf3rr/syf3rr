@@ -5,15 +5,15 @@ Currently a Backend Developer focused on building high-performance server-side s
 ## ✨ Featured Projects
 
 ### JWT Authentication Service
- **Technologies:** Nest.js, JWT, Argon2, PostgreSQL, Prisma.
- **Key Features:** Secure access/refresh token logic with modular architecture.
- **Link:** [JWT Authentication repository](https://github.com/syf3rr/jwt-auth)
+ * **Technologies:** Nest.js, JWT, Argon2, PostgreSQL, Prisma.
+ * **Key Features:** Secure access/refresh token logic with modular architecture.
+ * **Link:** [JWT Authentication repository](https://github.com/syf3rr/jwt-auth)
 
 
 
 ### 🎨 Previous Front-end Work:
 If you're interested in my UI/UX experience, check out these projects:
- **Links:** [Agency.AI repository](https://github.com/syf3rr/agency-ai), [Kropp-fitness repository](https://github.com/syf3rr/kropp-fitness), [Future-Tech repository](https://github.com/syf3rr/future-tech)
+ * **Links:** [Agency.AI repository](https://github.com/syf3rr/agency-ai), [Kropp-fitness repository](https://github.com/syf3rr/kropp-fitness), [Future-Tech repository](https://github.com/syf3rr/future-tech)
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
