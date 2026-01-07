@@ -1,20 +1,14 @@
 # 💫 About Me:
-Currently a Front-end Developer and a student of Computer Science at the Faculty of International Economic Relations and Information Technologies, Lviv University of Trade and Economics, I'm driven by a passion for building seamless and high-performing web applications. My expertise lies in JavaScript, React, and modern CSS. I am actively seeking opportunities to contribute to innovative projects and collaborate with a team of skilled developers to expand my knowledge and make a tangible impact.
+Currently a Backend Developer focused on building high-performance server-side systems and scalable architectures. While my journey began in Front-end, my core expertise now lies in Node.js, Nest.js, and Database Design. I’m passionate about optimizing API performance, implementing secure authentication flows, and exploring the world of microservices. Driven by the challenge of transforming complex business logic into clean, efficient, and maintainable code.
 
 
 ## ✨ Featured Projects
 
-### Kropp-fitness
-Business card website for a network of gyms, developed using pure HTML5 and CSS3.
+### JWT Authentication Service
+* **Technologies:** Nest.js, JWT, Argon2, PostgreSQL, Prisma.
+* **Key Features:** Secure access/refresh token logic with modular architecture.
+* **Link:** [JWT Authentication](https://github.com/syf3rr/jwt-auth)
 
-* **Technologies:** HTML5, CSS3
-* **Link:** [Kropp-fitness repository](https://github.com/syf3rr/kropp-fitness)
-
-### Future-Tech
-A portfolio project demonstrating key Front-End development skills through a multi-page website.
-
-* **Technologies:** HTML5, SCSS, JavaScript
-* **Link:** [Future-Tech repository](https://github.com/syf3rr/future-tech)
 
 ### Agency.AI
 An interactive website developed as a portfolio project to demonstrate modern front-end skills using an advanced tech stack.
@@ -29,6 +23,6 @@ An interactive website developed as a portfolio project to demonstrate modern fr
 
 
 ## 🌐 Socials:
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/____.marko.____) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/markoghoul) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcogull228@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marko-hul) 
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/____.marko.____) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/markoghoul) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcogull228@gmail.com)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
