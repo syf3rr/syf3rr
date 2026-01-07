@@ -9,8 +9,9 @@ Currently a Backend Developer focused on building high-performance server-side s
  * **Key Features:** Secure access/refresh token logic with modular architecture.
  * **Link:** [JWT Authentication repository](https://github.com/syf3rr/jwt-auth)
 
- ## 🛠 Tech Stack
 
+ ## 🛠 Tech Stack
+ 
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **🚀 Backend Core** | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-679E62?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) |
@@ -18,9 +19,6 @@ Currently a Backend Developer focused on building high-performance server-side s
 | **💾 Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-16A293?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-D32B1F.svg?style=for-the-badge&logo=redis&logoColor=white) |
 | **🧪 Testing** | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) |
 | **☁️ Infrastructure** | ![Docker](https://img.shields.io/badge/docker-1D62EC.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
-
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
 ## 📂 Front-end Archive
