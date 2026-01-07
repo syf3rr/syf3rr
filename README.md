@@ -14,10 +14,10 @@ Currently a Backend Developer focused on building high-performance server-side s
  
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **🚀 Backend Core** | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-679E62?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-F4009A?style=for-the-badge&logo=graphql&logoColor=white)|
-| **💾 Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-16A293?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-D32B1F.svg?style=for-the-badge&logo=redis&logoColor=white) |
-| **🧪 Testing** | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) |
-| **☁️ Infrastructure** | ![Docker](https://img.shields.io/badge/docker-1D62EC.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
+| ** Backend Core** | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-679E62?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-F4009A?style=for-the-badge&logo=graphql&logoColor=white)|
+| ** Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-16A293?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-D32B1F.svg?style=for-the-badge&logo=redis&logoColor=white) |
+| ** Testing** | ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) |
+| ** Infrastructure** | ![Docker](https://img.shields.io/badge/docker-1D62EC.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
 
 ## 📂 Front-end Archive
