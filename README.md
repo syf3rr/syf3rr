@@ -10,12 +10,10 @@ Currently a Backend Developer focused on building high-performance server-side s
 * **Link:** [JWT Authentication repository](https://github.com/syf3rr/jwt-auth)
 
 
-### Agency.AI
-An interactive website developed as a portfolio project to demonstrate modern front-end skills using an advanced tech stack.
 
-* **Technologies:** JavaScript, React, TailwindCSS
-* **Link:** [Agency.AI repository](https://github.com/syf3rr/agency-ai)
-
+### 🎨 Previous Front-end Work:
+*If you're interested in my UI/UX experience, check out these projects:*
+* **Links:** [Agency.AI repository](https://github.com/syf3rr/agency-ai)
 
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
