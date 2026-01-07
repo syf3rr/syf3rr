@@ -10,7 +10,7 @@ Currently a Backend Developer focused on building high-performance server-side s
  * **Link:** [JWT Authentication repository](https://github.com/syf3rr/jwt-auth)
 
 # 🛠️ Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-407D38?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-99BE4F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-16A293?style=for-the-badge&logo=Prisma&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-F4009A?style=for-the-badge&logo=graphql&logoColor=white)
