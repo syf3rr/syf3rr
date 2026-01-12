@@ -2,7 +2,7 @@
 Currently a Backend Developer focused on building high-performance server-side systems and scalable architectures. While my journey began in Front-end, my core expertise now lies in Node.js, Nest.js, and Database Design. I’m passionate about optimizing API performance, implementing secure authentication flows, and exploring the world of microservices. Driven by the challenge of transforming complex business logic into clean, efficient, and maintainable code.
 
 
-## 🎯 Featured Projects
+## 📌 Featured Projects
 
 ### JWT Authentication Service
  * **Technologies:** Nest.js, JWT, Argon2, PostgreSQL, Prisma. 
@@ -20,7 +20,7 @@ Currently a Backend Developer focused on building high-performance server-side s
 | **Infrastructure** | ![Docker](https://img.shields.io/badge/docker-1D62EC.svg?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
 
-## 📂 Front-end Archive
+## 📂 Frontend Archive
 Сollection of my past work in UI/UX and web development:
 * [Agency.AI](https://github.com/syf3rr/agency-ai)
 * [Kropp-fitness](https://github.com/syf3rr/kropp-fitness)
