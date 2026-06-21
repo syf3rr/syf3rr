@@ -11,7 +11,7 @@ deployment pipelines and reducing manual operations.
 - **Technologies:** Docker, Docker Compose, GitLab CI/CD, Nginx, Ansible
 - **Key Features:** Automated build/test/deploy pipeline, 
   containerized app, Nginx reverse proxy, Ansible provisioning
-- **Link:** [DevOps Infrastructure Repository](ВСТАВ_ПОСИЛАННЯ_НА_GITLAB)
+- **Link:** [DevOps Infrastructure Repository]((https://gitlab.com/syf3rr/agency-ai))
 
 ## ⚙️ Tech Stack
 
@@ -28,9 +28,9 @@ deployment pipelines and reducing manual operations.
 ## 📂 Archive
 
 ### Frontend Projects
-- [Agency.AI](ПОСИЛАННЯ)
-- [Kropp-Fitness](ПОСИЛАННЯ)
-- [Future-Tech](ПОСИЛАННЯ)
+- [Agency.AI]((https://github.com/syf3rr/agency-ai))
+- [Kropp-Fitness]((https://github.com/syf3rr/kropp-fitness))
+- [Future-Tech]((https://github.com/syf3rr/future-tech))
 
 ## 📬 Contact me:
 
