@@ -13,12 +13,14 @@ deployment pipelines and reducing manual operations.
 
 ## 🛠️ Tech Stack
 
-* **Cloud & Infrastructure as Code:** `AWS` • `Terraform` • `Ansible`
-* **Containers & Orchestration:** `Docker` • `Kubernetes` • `Helm` • `ArgoCD`
-* **CI/CD & Version Control:** `GitHub Actions` • `Git`
-* **Monitoring & Logging:** `Prometheus` • `Grafana` • `Loki`
-* **Web & Reverse Proxy:** `Nginx`
-* **OS & Scripting:** `Linux` • `Bash`
+| Category | Technologies |
+| :--- | :--- |
+| **Cloud & IaC** | `AWS` • `Terraform` • `Ansible` |
+| **Containers & Orchestration** | `Docker` • `Kubernetes` • `Helm` • `ArgoCD` |
+| **CI/CD & Version Control** | `GitHub Actions` • `Git` |
+| **Monitoring & Logging** | `Prometheus` • `Grafana` • `Loki` |
+| **Web & Reverse Proxy** | `Nginx` |
+| **OS & Scripting** | `Linux` • `Bash` |
 
 ## 📂 Archive
 ### Backend Projects
