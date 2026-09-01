@@ -13,14 +13,44 @@ deployment pipelines and reducing manual operations.
 
 ### ⚙️ Tech Stack
 
-| Category | Technologies | Badges |
-| :--- | :--- | :--- |
-| **Cloud & IaC** | AWS, Terraform, Ansible | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-web-services&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) |
-| **Containers & Orchestration** | Docker, Kubernetes, Helm, ArgoCD | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![ArgoCD](https://img.shields.io/badge/Argo--CD-EF7B4D?style=flat-square&logo=argo&logoColor=white) |
-| **CI/CD & Version Control** | GitHub Actions, Git | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Monitoring & Logging** | Prometheus, Grafana, Loki | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Grafana Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white) |
-| **Web & Reverse Proxy** | Nginx | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
-| **OS & Scripting** | Linux, Bash | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![GNU Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+* **Cloud & Infrastructure as Code:** AWS, Terraform, Ansible  
+  <p>
+    <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900" width="28" height="28" alt="AWS" />
+    <img src="https://cdn.simpleicons.org/terraform/844FBA" width="28" height="28" alt="Terraform" />
+    <img src="https://cdn.simpleicons.org/ansible/EE0000" width="28" height="28" alt="Ansible" />
+  </p>
+
+* **Containers & Orchestration:** Docker, Kubernetes, Helm, ArgoCD  
+  <p>
+    <img src="https://cdn.simpleicons.org/docker/2496ED" width="28" height="28" alt="Docker" />
+    <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="28" height="28" alt="Kubernetes" />
+    <img src="https://cdn.simpleicons.org/helm/0F1689" width="28" height="28" alt="Helm" />
+    <img src="https://cdn.simpleicons.org/argo/EF7B4D" width="28" height="28" alt="ArgoCD" />
+  </p>
+
+* **CI/CD & Version Control:** GitHub Actions, Git  
+  <p>
+    <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="28" height="28" alt="GitHub Actions" />
+    <img src="https://cdn.simpleicons.org/git/F05032" width="28" height="28" alt="Git" />
+  </p>
+
+* **Monitoring & Logging:** Prometheus, Grafana, Loki  
+  <p>
+    <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="28" height="28" alt="Prometheus" />
+    <img src="https://cdn.simpleicons.org/grafana/F46800" width="28" height="28" alt="Grafana" />
+    <img src="https://cdn.simpleicons.org/grafana/F46800" width="28" height="28" alt="Loki" />
+  </p>
+
+* **Web & Reverse Proxy:** Nginx  
+  <p>
+    <img src="https://cdn.simpleicons.org/nginx/009639" width="28" height="28" alt="Nginx" />
+  </p>
+
+* **OS & Scripting:** Linux, Bash  
+  <p>
+    <img src="https://cdn.simpleicons.org/linux/FCC624" width="28" height="28" alt="Linux" />
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="28" height="28" alt="Bash" />
+  </p>
 
 ## 📂 Archive
 ### Backend Projects
