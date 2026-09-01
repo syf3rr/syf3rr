@@ -12,16 +12,13 @@ deployment pipelines and reducing manual operations.
 - **Link:** [DevOps Infrastructure Repository](https://gitlab.com/syf3rr/agency-ai)
 
 ## ⚙️ Tech Stack
-| Category | Tools & Technologies |
-|----------|----------------------|
-| **CI/CD** | GitLab CI/CD · Git · Bash |
-| **Containers** | Docker · Docker Compose |
-| **Orchestration** | Kubernetes |
-| **Configuration** | Ansible |
-| **Web Servers** | Nginx |
-| **OS & Networking** | Linux · HTTP/HTTPS · SSH · DNS |
-| **Backend** | NestJS · Node.js · TypeScript |
-| **Frontend** | React · TypeScript · Tailwind CSS |
+[![My Skills](https://skillicons.dev/icons?i=linux,git,docker,githubactions,bash,ansible,kubernetes,nginx,aws,prometheus,grafana,terraform,helm,argocd)](https://skillicons.dev)
+
+* **Cloud & Infrastructure as Code:** AWS, Terraform, Ansible
+* **Containers & Orchestration:** Docker, Kubernetes, Helm, ArgoCD
+* **CI/CD & Version Control:** GitHub Actions, Git
+* **Monitoring & Web Servers:** Prometheus, Grafana, Nginx
+* **OS & Scripting:** Linux, Bash
 
 ## 📂 Archive
 ### Backend Projects
