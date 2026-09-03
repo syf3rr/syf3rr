@@ -5,6 +5,12 @@ server infrastructure. Passionate about building reliable
 deployment pipelines and reducing manual operations.
 
 ## 📌 Featured Projects
+
+### PERN Stack Kubernetes Deployment
+- **Technologies:** Kubernetes, ArgoCD, Helm, Terraform, Bitnami Sealed Secrets, Prometheus, Grafana, Loki, Nginx Ingress, PostgreSQL
+- **Key Features:** GitOps continuous delivery (App-of-Apps pattern), asymmetric secrets encryption, metrics/log observability, IaC provisioning
+- **Link:** [PERN Stack Kubernetes Deployment Repository](https://github.com/syf3rr/devops-k8s-pet)
+
 ### DevOps Infrastructure Project
 - **Technologies:** Docker, Docker Compose, GitLab CI/CD, Nginx, Ansible
 - **Key Features:** Automated build/test/deploy pipeline, 
